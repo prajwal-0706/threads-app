@@ -13,8 +13,6 @@
 /.next/
 /out/
 
-#css
-/app/globals.css
 
 # production
 /build
